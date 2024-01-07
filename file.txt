@@ -3,4 +3,8 @@ one line
 
 second line
 
+<<<<<<< HEAD
 thirt line
+=======
+modified  this file
+>>>>>>> 3707a9a8453cb9f9a8823f8e891bf6cb89cafbb4
